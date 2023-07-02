@@ -46,7 +46,7 @@ To run the Student Record Management System, follow these steps:
 ## Usage
 
 The program will provide you with a command-line interface to interact with the Student Record Management System. You can use the available commands to perform various operations on student records.
-
+`user@linux:~/SRMS$ python3 SRMS.py`
 Here are some example commands you can use:
 
 - `add`: Add a new student to the system.
