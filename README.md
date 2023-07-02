@@ -82,4 +82,4 @@ The code includes the following functionality:
         
     - Printing object details:
         
-        "print_object(somebody)"
+        + print_object(somebody)
