@@ -54,7 +54,7 @@ Here are some example commands you can use:
 - `display`: Display student records.
 - `search`: Search for a student record based on a query.
 - `update`: Update a student's information.
-- `compare`: Compare two students based on their GPA.
+- `compare`: Compare two students based on their GPA. ** Not Added yet!
 
 Please refer to the program's documentation or source code for more details on available commands and their usage.
 
