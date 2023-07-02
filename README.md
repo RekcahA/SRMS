@@ -41,12 +41,11 @@ To run the Student Record Management System, follow these steps:
 1. Clone the repository to your local machine.
 2. Make sure you have Python installed (version 3.6 or above).
 3. Open a terminal or command prompt and navigate to the project directory.
-4. Run the command `python main.py` to start the program.
+4. Run the command `user@linux:~/SRMS$ python3 SRMS.py` to start the program.
 
 ## Usage
 
-The program will provide you with a command-line interface to interact with the Student Record Management System. You can use the available commands to perform various operations on student records.
- `user@linux:~/SRMS$ python3 SRMS.py`  
+The program will provide you with a command-line interface to interact with the Student Record Management System. You can use the available commands to perform various operations on student records.  
 Here are some example commands you can use:
 
 - `add`: Add a new student to the system.
