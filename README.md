@@ -71,5 +71,3 @@ This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) f
 This README provides an overview of the Student Record Management System project. For more details, please refer to the source code.
 
 Happy coding!
-
-"""
