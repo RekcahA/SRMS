@@ -85,6 +85,6 @@ The code includes the following functionality:
         print_object(somebody)
         
 
-The Student Record Management System provides a flexible and organized approach to manage student records within a school.
-    It allows for easy addition, removal, and updating of student information.
-        The code demonstrates the use of object-oriented programming principles to create a robust and efficient system for managing student records.
+*** The Student Record Management System provides a flexible and organized approach to manage student records within a school.
+        It allows for easy addition, removal, and updating of student information.
+            The code demonstrates the use of object-oriented programming principles to create a robust and efficient system for managing student records.
